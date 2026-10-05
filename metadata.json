@@ -1,0 +1,10 @@
+{
+  "name": "Remix RELife - Circular Electronics Reuse \u0026 Marketplace Platform",
+  "description": "AI-powered circular electronics reuse and marketplace platform connecting unused components with sustainable build projects, live camera verification, intelligent feasibility matching, and e-waste impact tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
